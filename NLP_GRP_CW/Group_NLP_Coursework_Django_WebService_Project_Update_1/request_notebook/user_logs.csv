@@ -1,0 +1,11 @@
+user_input,emotion_predict,time_logs
+"hello, this is saturday",disapproval,2023-05-20 17:49:43.778584
+,neutral,2023-05-20 17:50:23.659900
+"hi, i am not so happy",joy,2023-05-20 17:59:27.877797
+"hi, i am not so happy",joy,2023-05-20 17:59:36.711298
+"hi, i am not so happy",joy,2023-05-20 17:59:37.505638
+"hi, i am not so happy",joy,2023-05-20 17:59:39.366660
+"hi, i am not so happy",joy,2023-05-20 17:59:39.569880
+"hi, i am not so happy",joy,2023-05-20 17:59:39.826745
+"hi, i am not so happy",joy,2023-05-20 17:59:41.030199
+hello i agree with your statement,approval,2023-05-20 18:00:20.224755
